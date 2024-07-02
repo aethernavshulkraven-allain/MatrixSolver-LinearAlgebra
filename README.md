@@ -7,4 +7,4 @@ The input should ideally be read from a text file,
 Your code should be based on algorithms learned in the course. No pre-existing routines from Python libraries should be used.
 
 
-_This was course delivererable in course MTH101 : Linear Algebra_
+_This was course delivererable in course MTH100 : Linear Algebra_
